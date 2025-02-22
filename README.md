@@ -23,5 +23,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KGLEADER&layout=compact&theme=tokyonight)
 
 ### 📈 MY GitHub ACTIVITY:
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=СИЗДИН_ГИТХАБ_АТЫҢЫЗ&theme=tokyo-night)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=KGLEADER&theme=tokyo-night)
+
+### 🐍 Contribution Graph:
+![Snake animation](https://github.com/KGLEADER/KGLEADER/blob/output/github-contribution-grid-snake.svg)
 
