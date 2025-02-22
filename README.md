@@ -17,7 +17,11 @@ Here you can find information about my projects and work.
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-### 📊 GitHub Статистикам:
+### 📊 GitHub STAT:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KGLEADER&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KGLEADER&layout=compact&theme=tokyonight)
+
+### 📈 MY GitHub ACTIVITY:
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=СИЗДИН_ГИТХАБ_АТЫҢЫЗ&theme=tokyo-night)
+
