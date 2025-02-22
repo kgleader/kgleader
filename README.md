@@ -26,6 +26,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 [![kgleader's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kgleader&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+[![LeetCode](https://img.shields.io/badge/LeetCode-Solved%20150%20problems-brightgreen)](https://leetcode.com/kgleader/)
 
+
+[![Kaggle](https://img.shields.io/badge/Kaggle-Competitions%20Gold%20Medalist-orange)](https://www.kaggle.com/)
+
+
+ 
 
 
