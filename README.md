@@ -27,10 +27,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [![kgleader's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kgleader&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🐍 My GitHub Snake
+![kgleader's snake animation](https://github.com/kgleader/kgleader/blob/output/github-contribution-grid-snake.svg)
 
-![Snake animation](https://github.com/kgleader/kgleader/blob/output/github-contribution-grid-snake.svg)
 
- 
+
 
 
 
