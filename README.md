@@ -25,6 +25,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ### 📈 MY GitHub ACTIVITY:
 ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=KGLEADER&theme=tokyo-night)
 
-### 🐍 Contribution Graph:
-![Snake animation](https://github.com/KGLEADER/KGLEADER/blob/output/github-contribution-grid-snake.svg)
+## 🐍 Contribution Graph:
+
+![Snake animation](https://github.com/kgleader/kgleader/blob/output/github-contribution-grid-snake.svg)
+
 
