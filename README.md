@@ -13,3 +13,6 @@ Here you can find information about my projects and work.
 ### 📫 Contact me:
 - 📨 Email: kgleader@gmail.com
 - 🐦 Twitter: [@meerimqe](https://twitter.com/meerimqe)
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
