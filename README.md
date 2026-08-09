@@ -43,8 +43,3 @@ Here are some of my recent certifications from SoloLearn:
 [![kgleader's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kgleader&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
-
-## 📚 External Profiles (Optional)
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-Solved%20150%20problems-brightgreen)](https://leetcode.com/kgleader/)  
-[![Kaggle](https://img.shields.io/badge/Kaggle-Competitions%20Gold%20Medalist-orange)](https://www.kaggle.com/)
