@@ -1,45 +1,48 @@
-## 🖐 Hello, welcome to my profile!
+# Meerim Akmatova
 
-I'm working on Flutter and mobile development 🚀  
-Here you can find information about my projects and work.  
-**Aspiring Flutter Developer | Learning Python & REST API | Building mobile apps during internship at AppIT**
+### Junior Mobile Developer | Flutter & Dart | Learning iOS Development
 
----
+I am a junior mobile developer with hands-on experience building Flutter applications and documenting software quality issues.
 
-### 🛠️ Technologies:
-- 🚀 Flutter, Dart
-- 🔧 Firebase, REST API
-- 🎨 UI/UX design (Figma-based)
+I developed a veterinary appointment application as part of an internship project at AppIT. I am currently expanding my skills in iOS development, SwiftUI, SwiftData, and software testing.
 
----
+## Technical Skills
 
-### 📫 Contact me:
-- 📨 Email: kgleader@gmail.com
-- 🐦 Twitter: [@meerimqe](https://twitter.com/meerimqe)
+- Flutter and Dart
+- Swift, SwiftUI, and SwiftData
+- Firebase Authentication and Firestore
+- REST API integration
+- BLoC state management
+- Git and GitHub
+- Software testing, test cases, and bug reporting
 
----
+## Featured Projects
 
-## 📜 Certifications
+### [VetMobileApp](https://github.com/kgleader/vet_mobile_app)
 
-Here are some of my recent certifications from SoloLearn:
+A Flutter mobile application for managing pet profiles and booking veterinary appointments. Developed as part of an internship project at AppIT.
 
-- 🐍 **[Python Developer](https://www.sololearn.com/en/profile/1942337)** – June 2, 2025  
-- 🔹 Python Intermediate – April 4, 2025  
-- 🔸 Introduction to Python – March 29, 2025  
+**Technologies:** Flutter, Dart, Firebase, REST API, BLoC
 
-👉 You can also view them in the [certificates repository](https://github.com/kgleader/certificates)
+### [Flutter & Python QA Demo](https://github.com/kgleader/flutter_python_qa_demo)
 
----
+A small QA portfolio project containing a documented test case, bug report, and Jira issue example.
 
-## 📊 GitHub Stats
+**Skills demonstrated:** Software testing, test documentation, and bug reporting
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kgleader&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kgleader&layout=compact&theme=tokyonight)
+## Currently Working On
 
----
+- Building a privacy-focused iOS money management application
+- Learning SwiftUI and SwiftData
+- Improving automated and manual software testing skills
 
-## 📈 My GitHub Activity
+## Certifications
 
-[![kgleader's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kgleader&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+- [Python Developer — SoloLearn](https://www.sololearn.com/en/profile/1942337)
+- Python Intermediate — SoloLearn
+- Introduction to Python — SoloLearn
+- [View certificates](https://github.com/kgleader/certificates)
 
----
+## Contact
+
+- Email: [kgleader@gmail.com](mailto:kgleader@gmail.com)
