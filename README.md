@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/meerim-github-banner.svg" alt="Meerim Akmatova — Independent App Creator and product-minded iOS builder" width="100%" />
+  <img src="meerim-github-banner.svg" alt="Meerim Akmatova — Independent App Creator and product-minded iOS builder" width="100%" />
 </p>
 
 <p align="center">
